@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**sophryu99/sophryu99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡Aspiring **back-end developer** & **data engineer** ⚡
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+👯 I am ...
+
+- Sehwa Ryu (Sophie)
+- rising junior studying *Data Science - Business Analytics* at *UC Berkeley*
+- at Seoul and San Francisco
+
+
+
+🌱 I’m interested in ...
+
+- Data engineering
+- Machine Learning / Deep Learning
+- Mobile App back-end & front-end
+
+
+
+📫 Reach me at:
