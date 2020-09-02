@@ -1,4 +1,4 @@
-##### ⚡Aspiring **back-end developer* & **data engineer** ⚡
+##### ⚡Aspiring **back-end developer** & **data engineer** ⚡
 
 👯 I am ...
 
