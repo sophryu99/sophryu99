@@ -1,10 +1,10 @@
-### ⚡Aspiring **back-end developer** & **data engineer** ⚡
+### ⚡Aspirant **data scientist** & **developer** ⚡
 
 ##### I am studying:
 
+- Data Science & Applied Statistics
 - Machine Learning & AI
 - App/web back-end
-- App front-end
 
 
 
