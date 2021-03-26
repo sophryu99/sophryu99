@@ -1,4 +1,4 @@
-### ⚡Aspirant **data scientist** & **developer** ⚡
+### ⚡I am a **Data Scientist** & **Developer** & **AI Enthusiast** ⚡
 
 #### I am studying:
 
@@ -18,6 +18,9 @@
 <img alt="python" width="26px" src="https://img.icons8.com/color/48/000000/python.png">
 </code>](https://www.python.org/)
 [<code>
+<img alt="Javascript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png">
+</code>](https://www.python.org/)
+[<code>
 <img alt="mysql" width="26px" src="https://img.icons8.com/color/24/000000/add-database.png">
 </code>](https://www.jetbrains.com/pycharm/)
 [<code>
@@ -29,6 +32,9 @@
 [<code>
 <img alt="pycham" width="26px" src="https://img.icons8.com/color/48/000000/pycharm.png">
 </code>](https://www.jetbrains.com/pycharm/)
+[<code>
+<img alt="Selenium" width="26px" src="https://img.icons8.com/color/48/000000/selenium.png">
+</code>](https://www.python.org/)
 [<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
