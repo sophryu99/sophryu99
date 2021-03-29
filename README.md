@@ -19,9 +19,6 @@ based in **Seoul** & **San Francisco** 🌟
 - Recommendation Engine on Spotify Songs
 - *Apophis* App Service as a backend engineer (to be released onto AppStore on June.2021)
 
-
-<br/>
-
 #### Tech stacks:
 [<code>
 <img alt="python" width="26px" src="https://img.icons8.com/color/48/000000/python.png">
