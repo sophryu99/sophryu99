@@ -8,12 +8,17 @@ based in **Seoul** & **San Francisco** 🌟
 
 <br/>
 
-**Feel free to reach me at:**
+**Feel free to reach me at (I'm always open to new ideas and discussions):**
 
 ✉️ [Email](mailto:sehwa_ryu@berkeley.edu) | 💻 [Github](https://github.com/sophryu99) | 📊 [Kaggle](https://www.kaggle.com/bigsmile99) | 💾 [Study Blog](https://sophuu.tistory.com/) | ✅ [LinkedIn](https://www.linkedin.com/in/soph-seh-r/)
 
 <br/>
-Read more to find out what I love to do, and what I'm onto these days!
+
+**Read more to find out what I love to do, and what I'm onto these days!:**
+
+🌸 [Portfolio](https://www.notion.so/Sehwa-Ryu-e2c39caea42a4a2c8a1b22a2b652f347)
+
+<br/>
 
 #### Tech stacks:
 [<code>
