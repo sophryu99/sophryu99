@@ -1,9 +1,12 @@
 <img width="859" alt="Screen Shot 2021-03-29 at 7 32 18 PM" src="https://user-images.githubusercontent.com/46921003/112824439-7cb31400-90c5-11eb-8330-1e256ee966c6.png">
 
-#### Reach me at:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/soph-seh-r/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sehwa_ryu@berkeley.edu)](mailto:sehwa_ryu@berkeley.edu) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&link=https://sophuu.tistory.com/)](https://sophuu.tistory.com/)
+**Feel free to reach me at:**
 
+✉️ [Email](mailto:sehwa_ryu@berkeley.edu) | 💻 [Github](https://github.com/sophryu99) | 📊 [Kaggle](https://www.kaggle.com/bigsmile99) | 💾 [Study Blog](https://sophuu.tistory.com/) | ✅ [LinkedIn](https://www.linkedin.com/in/soph-seh-r/)
+
+<br/>
+Read more to find out what I love to do, and what I'm onto these days!
 
 #### Tech stacks:
 [<code>
