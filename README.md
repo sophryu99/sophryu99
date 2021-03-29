@@ -1,5 +1,12 @@
-<img width="859" alt="Screen Shot 2021-03-29 at 7 32 18 PM" src="https://user-images.githubusercontent.com/46921003/112824439-7cb31400-90c5-11eb-8330-1e256ee966c6.png">
+### I'm a **Data Scientist, an Analyst**, **and a Developer**
 
+with a keen interest in **Data Intelligence**, **Data Engineering**, **Artificial Intelligence, Service Planning**
+
+and demonstrated experiences in **Machine Learning/Deep Learning**, **App Service, Software Solutions Company** 
+
+based in **Seoul** & **San Francisco** 🌟
+
+<br/>
 
 **Feel free to reach me at:**
 
