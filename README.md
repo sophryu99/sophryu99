@@ -1,4 +1,4 @@
-### I'm a **Data Scientist, an Analyst**, **and a Developer**
+### Hello, I'm a **Data Scientist, an Analyst**, **and a Developer**
 
 with a keen interest in **Data Intelligence**, **Data Engineering**, **Artificial Intelligence, Service Planning**
 
@@ -10,13 +10,15 @@ based in **Seoul** & **San Francisco** 🌟
 
 **Feel free to reach me at** (I'm always open to new ideas and discussions):
 
-✉️ [Email](mailto:sehwa_ryu@berkeley.edu) | 💻 [Github](https://github.com/sophryu99) | 📊 [Kaggle](https://www.kaggle.com/bigsmile99) | 💾 [Study Blog](https://sophuu.tistory.com/) | ✅ [LinkedIn](https://www.linkedin.com/in/soph-seh-r/)
+✉️ [Email](mailto:sehwa_ryu@berkeley.edu) | 💻 [Github](https://github.com/sophryu99) | 📊 [Kaggle](https://www.kaggle.com/bigsmile99) | 💾 [Study Blog](https://sophuu.tistory.com/) | ✅ [LinkedIn](https://www.linkedin.com/in/soph-seh-r/) | 🌸 [Portfolio](https://www.notion.so/Sehwa-Ryu-e2c39caea42a4a2c8a1b22a2b652f347)
 
 <br/>
 
-**Read more to find out what I love to do, and what I'm onto these days!:**
+**Currently I'm working on/studying:**
+- Deep Learning projects on Natural Language Processing
+- Recommendation Engine on Spotify Songs
+- *Apophis* App Service as a backend engineer (to be released onto AppStore on June.2021)
 
-🌸 [Portfolio](https://www.notion.so/Sehwa-Ryu-e2c39caea42a4a2c8a1b22a2b652f347)
 
 <br/>
 
