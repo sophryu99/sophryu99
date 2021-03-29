@@ -8,7 +8,7 @@ based in **Seoul** & **San Francisco** 🌟
 
 <br/>
 
-**Feel free to reach me at (I'm always open to new ideas and discussions):**
+**Feel free to reach me at** (I'm always open to new ideas and discussions):
 
 ✉️ [Email](mailto:sehwa_ryu@berkeley.edu) | 💻 [Github](https://github.com/sophryu99) | 📊 [Kaggle](https://www.kaggle.com/bigsmile99) | 💾 [Study Blog](https://sophuu.tistory.com/) | ✅ [LinkedIn](https://www.linkedin.com/in/soph-seh-r/)
 
