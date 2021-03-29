@@ -1,12 +1,4 @@
-### ⚡I am a **Data Scientist** & **Developer** & **AI Enthusiast** ⚡
-
-#### I am studying:
-
-- Data Science & Applied Statistics
-- Machine Learning & AI
-- App/web back-end
-
-
+<img width="859" alt="Screen Shot 2021-03-29 at 7 32 18 PM" src="https://user-images.githubusercontent.com/46921003/112824439-7cb31400-90c5-11eb-8330-1e256ee966c6.png">
 
 #### Reach me at:
 
