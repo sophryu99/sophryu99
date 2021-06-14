@@ -1,23 +1,28 @@
 ### Hello, I'm a **Data Scientist, an Analyst**, **and a Developer**
 
-with a keen interest in **Data Intelligence**, **Data Engineering**, **Artificial Intelligence, Service Planning**
+✔️ with a keen interest in **Data Intelligence**, **Data Engineering**, **Artificial Intelligence, Service Planning**
 
-and demonstrated experiences in **Machine Learning/Deep Learning**, **App Service, Software Solutions Company** 
+✔️ and demonstrated experiences in **Machine Learning/Deep Learning**, **App Service, Software Solutions Company** 
 
-based in **Seoul** & **San Francisco** 🌟
+✔️ based in **Seoul** & **San Francisco** 🌟
 
 <br/>
 
-**Feel free to reach me at** (I'm always open to new ideas and discussions):
+**I'm working on/studying:**
+- Deep Learning projects on Natural Language Processing
+- Recommendation Engine on Spotify Songs
+- *Apophis* App Service as a backend engineer (to be released onto AppStore on Aug.2021)
+- *Boardpedia* App Service as PM and an backend engineer (to be released on June.2021)
+
+<br/>
+
+**Feel free to reach me at**:
 
 ✉️ [Email](mailto:sehwa_ryu@berkeley.edu) | 💻 [Github](https://github.com/sophryu99) | 📊 [Kaggle](https://www.kaggle.com/bigsmile99) | 💾 [Study Blog](https://sophuu.tistory.com/) | ✅ [LinkedIn](https://www.linkedin.com/in/soph-seh-r/) | 🌸 [Portfolio](https://www.notion.so/Sehwa-Ryu-e2c39caea42a4a2c8a1b22a2b652f347)
 
 <br/>
 
-**Currently I'm working on/studying:**
-- Deep Learning projects on Natural Language Processing
-- Recommendation Engine on Spotify Songs
-- *Apophis* App Service as a backend engineer (to be released onto AppStore on June.2021)
+
 
 #### Tech stacks:
 [<code>
