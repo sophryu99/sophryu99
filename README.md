@@ -18,7 +18,7 @@
 
 **Feel free to reach me at**:
 
-✉️ [Email](mailto:sehwa_ryu@berkeley.edu) | 💻 [Github](https://github.com/sophryu99) | 📊 [Kaggle](https://www.kaggle.com/bigsmile99) | 💾 [Study Blog](https://sophuu.tistory.com/) | ✅ [LinkedIn](https://www.linkedin.com/in/soph-seh-r/) | 🌸 [Portfolio](https://www.notion.so/Sehwa-Ryu-e2c39caea42a4a2c8a1b22a2b652f347)
+✉️ [Email](mailto:sehwa_ryu@berkeley.edu) | 💻 [Github](https://github.com/sophryu99) | 📊 [Kaggle](https://www.kaggle.com/bigsmile99) | 💾 [Study Blog](https://sophuu.tistory.com/) | ✅ [LinkedIn](https://www.linkedin.com/in/soph-seh-r/) | 
 
 <br/>
 
