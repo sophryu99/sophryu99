@@ -1,7 +1,7 @@
 ## Sehwa Ryu
 > AI/ML, App/Web Service Development, Data Science, Data Engineering
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sophryu99&label=Profile%20views&color=0e75b6&style=flat" alt="sophryu99" /> </p>
+[![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsophryu99%2F&count_bg=%23CFA400&title_bg=%230D0D0D&icon=deliveroo.svg&icon_color=%23FBCB48&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
