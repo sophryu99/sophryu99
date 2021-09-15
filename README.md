@@ -22,12 +22,13 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/></a>&nbsp 
 <img src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/></a>&nbsp
+<img src = "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>&nbsp
 </div>
 
 <div align = 'center'> 
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/></a>&nbsp 
-<img src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/></a>&nbsp
+<img src = "https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/></a>&nbsp
 </div>
 
 <br/>
