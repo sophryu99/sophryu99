@@ -31,6 +31,7 @@
 <img src = "https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/></a>&nbsp
 </div>
 
+
 <br/>
 
 <p align = 'center'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sophryu99&show_icons=true&locale=en" alt="sophryu99" /></p>
