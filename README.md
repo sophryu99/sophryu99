@@ -4,22 +4,19 @@
 
 <p> ✨ Mobile/Web App Dev, Data Science, ML/AI, Software Dev </p>
 
-<br/>
 
 ### Projects
 
 | Project Title      | Tech Stack | Period | Project Link |
 | ----------- | ----------- | ----------- | ----------- |
-| Apophis Mobile App - BE      | Node.js, Express.js, Javascript, AWS, MySQL       | 01.2021 - 12.2021   | [💻](https://github.com/Apophis-AppJam/ApophisServer)        |
-| Boardpedia Mobile App - PM, BE      | Node.js, Express.js, Javascript, AWS, MySQL      | 01.2021 - 05.2021   | [💻](https://github.com/boardpedia)        |
+| Apophis Mobile App - BE      | JS, Node.js, Express.js, AWS, MySQL       | 01.2021 - 12.2021   | [💻](https://github.com/Apophis-AppJam/ApophisServer)        |
+| Boardpedia Mobile App - PM, BE      | JS, Node.js, Express.js, AWS, MySQL      | 01.2021 - 05.2021   | [💻](https://github.com/boardpedia)        |
 | Spotify Music Recommendation Web App - BE, ML     | Python, Django, Recommendation Engine       | 05.2021 - 06.2021   | [💻](https://github.com/sophryu99/spotify-song-recommender)        |
 | NLP BERT Project - Data Science, ML     | Python, BERT, KoBERT, Colab       | 03.2021 - 04.2021   | [💻](https://github.com/sophryu99/melon_chart_manipulation_classifier)        |
-| Foodie (국밥마라) Mobile App - BE      |  Node.js, Express.js, Javascript, AWS, MySQL        | 11.2020 - 02.2021   | [💻](https://github.com/TutorDot/TutorDot_iOS)        |
+| Foodie (국밥마라) Mobile App - BE      |  JS, Node.js, Express.js, AWS, MySQL        | 11.2020 - 02.2021   | [💻](https://github.com/TutorDot/TutorDot_iOS)        |
 | Tutordot Mobile App - FE (iOS)      | Swift, XCode, Alamofire       | 09.2020 - 12.2020   | [💻](https://github.com/TutorDot/TutorDot_iOS)        |
 | Comma (쉼표) Mobile App - FE (iOS)      | Swift, XCode       | 07.2020   | [💻](https://github.com/soptkathon/soptkathon-client)        |
 
-
-<br/>
 
 ### Languages and Tools
 
